@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A482E73E-4E5E-4A0A-9879-C1378F1D21DC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioClase/Persona.cs">
+    <Files>
+      <File FileName="EjercicioClase/Program.cs" Line="101" Column="1" />
+      <File FileName="EjercicioClase/.gitingnore" Line="361" Column="10" />
+      <File FileName="EjercicioClase/Persona.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EjercicioClase" expanded="True">
+            <Node name="EjercicioClase" expanded="True">
+              <Node name="Persona.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EjercicioClase FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

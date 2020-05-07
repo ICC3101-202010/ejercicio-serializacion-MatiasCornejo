@@ -1,0 +1,6 @@
+/Users/matiascornejolazcano/Desktop/ejercicio-serializacion-MatiasCornejo/EjercicioClase/EjercicioClase/obj/Debug/EjercicioClase.csprojAssemblyReference.cache
+/Users/matiascornejolazcano/Desktop/ejercicio-serializacion-MatiasCornejo/EjercicioClase/EjercicioClase/obj/Debug/EjercicioClase.csproj.CoreCompileInputs.cache
+/Users/matiascornejolazcano/Desktop/ejercicio-serializacion-MatiasCornejo/EjercicioClase/EjercicioClase/bin/Debug/EjercicioClase.exe
+/Users/matiascornejolazcano/Desktop/ejercicio-serializacion-MatiasCornejo/EjercicioClase/EjercicioClase/bin/Debug/EjercicioClase.pdb
+/Users/matiascornejolazcano/Desktop/ejercicio-serializacion-MatiasCornejo/EjercicioClase/EjercicioClase/obj/Debug/EjercicioClase.exe
+/Users/matiascornejolazcano/Desktop/ejercicio-serializacion-MatiasCornejo/EjercicioClase/EjercicioClase/obj/Debug/EjercicioClase.pdb
